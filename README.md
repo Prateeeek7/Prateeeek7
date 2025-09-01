@@ -19,8 +19,11 @@ Welcome to the **Pratik Kumar** repository! This is the central hub for all the 
 </div>
 
 ---
-![Snake animation](https://github.com/Prateeeek7/Prateeeek7/blob/output/github-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prateeeek7/Prateeeek7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prateeeek7/Prateeeek7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Prateeeek7/Prateeeek7/output/github-snake.svg" />
+</picture>
 ---
 
 ## 📌 About Pratik Kumar
