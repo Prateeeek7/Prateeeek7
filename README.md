@@ -117,8 +117,8 @@ I am a passionate **Full-Stack Developer & UI/UX Designer** with expertise in cr
 ---
 
 ## 🔗 Connect with Me
-- **GitHub**: [Pratik Kumar](https://github.com/pratikkumar)
-- **LinkedIn**: [Yashraj Borgave](https://www.linkedin.com/in/yashraj-borgave-01110b322)
+- **GitHub**: [Pratik Kumar](https://github.com/Prateeeek7)
+- **LinkedIn**: [Pratik Kumar](https://www.linkedin.com/in/pratik-kumar-198172186?)
 - **Portfolio**: [Pratik Portfolio](https://prateeeek7.github.io/Pratik-Portfolio/)
 
 ---
@@ -131,4 +131,4 @@ Feel free to explore my projects and contribute! I am always open to collaborati
 
 ### ⭐ Thank you for visiting this repository! Keep learning, keep growing.
 
-[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkumar)](https://github.com/pratikkumar/github-readme-stats)
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateeeek7)](https://github.com/prateeeek7/github-readme-stats)
