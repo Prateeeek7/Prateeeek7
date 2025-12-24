@@ -18,10 +18,6 @@ Welcome to the **Pratik Kumar** repository! This is the central hub for all the 
   </a>
 </div>
 
----
-![Snake animation](https://github.com/Prateeeek7/Prateeeek7/blob/output/github-snake.svg)
-
----
 
 ## 📌 About Pratik Kumar
 
